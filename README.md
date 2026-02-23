@@ -1,6 +1,3 @@
-# cybersecurity-foundations
-Notes and learning from Google Foundations of Cybersecurity
-
 # Cybersecurity Foundations
 
 This repository documents my learning from the **Google Foundations of Cybersecurity**
